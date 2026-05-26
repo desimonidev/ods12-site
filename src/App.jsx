@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 // ── EDITE O LINK DO SEU FORMULÁRIO AQUI ──
-const FORM_LINK = "https://forms.gle/SEU_LINK_AQUI";
+const FORM_LINK = "https://forms.gle/JA4rbtck1XKJudxd6";
 
 const styles = `
   @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,600&family=Lora:ital,wght@0,400;1,400&family=Outfit:wght@300;400;500&display=swap');
